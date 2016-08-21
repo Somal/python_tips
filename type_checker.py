@@ -1,9 +1,10 @@
 """
-Using type checker for Python 3
+Using type checker for Python 3.
+Git: https://github.com/Somal/python3-type-checker
 """
 
-from typecheck import *
 from time import time
+from typecheck import *
 
 
 @typecheck
