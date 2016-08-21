@@ -21,8 +21,8 @@ class Car(Movable):
     def move(self):
         self.c += self.speed
 
-        def speed(self):
-            return self.speed
+    def speed(self):
+        return self.speed
 
 
 if __name__ == "__main__":
